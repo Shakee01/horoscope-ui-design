@@ -16,19 +16,19 @@ The goal of the project was to design a simple and intuitive mobile interface.
 
 ### Start screen
 
-![Start screen](start.png)
+![Start screen](Start%20HQ.png)
 
 ### Zodiac selection
 
-![Zodiac selection](selection.png)
+![Zodiac selection](Selecting%20a%20zodiac%20sign%20HQ.png)
 
 ### Horoscope screen
 
-![Horoscope](horoscope.png)
+![Horoscope](Active%20zodiac%20sign%20HQ.png)
 
 ### Compatibility
 
-![Compatibility](compatibility.png)
+![Compatibility](Match%20HQ.png)
 
 ## Tools
 
