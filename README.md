@@ -22,7 +22,7 @@ The goal of the project was to design a simple and intuitive mobile interface.
 
 ![Zodiac selection](Selecting%20a%20zodiac%20sign%20HQ.png)
 
-### Horoscope screen
+### Active zodiac sign
 
 ![Horoscope](Active%20zodiac%20sign%20HQ.png)
 
