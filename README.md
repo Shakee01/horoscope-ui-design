@@ -1,77 +1,35 @@
-Horoscope Mobile App – UI Design
+# Horoscope App UI (Figma)
 
+This project presents a mobile horoscope application interface designed in Figma.
 
+## Description
 
+The application allows users to:
 
-Project Overview
+* choose their zodiac sign
+* read a horoscope prediction
+* compare compatibility between two zodiac signs
 
-This project presents a concept of a mobile horoscope application interface designed in Figma.
-The goal of the project was to create a simple, intuitive and visually engaging interface that allows users to easily check their horoscope and zodiac compatibility.
+The goal of the project was to design a simple and intuitive mobile interface.
 
-The application provides an interactive experience where users can select their zodiac sign, read a horoscope, and compare compatibility between different zodiac signs.
+## Screens
 
-Main Features
+### Start screen
 
-zodiac sign selection
+![Start screen](start.png)
 
-daily horoscope view
+### Zodiac selection
 
-zodiac compatibility check
+![Zodiac selection](selection.png)
 
-minimal and user-friendly mobile interface
+### Horoscope screen
 
-navigation between horoscope and compatibility screens
+![Horoscope](horoscope.png)
 
-Application Screens
-Start Screen
+### Compatibility
 
-The start screen introduces the user to the application.
-All zodiac signs are arranged in a circular layout around the sun, creating a visually attractive entrance to the app.
+![Compatibility](compatibility.png)
 
-Zodiac Selection
+## Tools
 
-Users can select their zodiac sign from a grid containing all twelve zodiac symbols.
-
-Horoscope Screen
-
-After selecting a sign, the application displays a horoscope description along with additional information such as:
-
-horoscope prediction
-
-special abilities in IT
-
-lucky numbers
-
-Compatibility Screen
-
-Users can select two zodiac signs and check their compatibility.
-The application presents a compatibility score and a short relationship description.
-
-Tools Used
-
-Figma
-
-Screenshots
-Start Screen
-
-
-
-
-Zodiac Selection
-
-
-
-
-Horoscope Screen
-
-
-
-
-Compatibility
-
-
-
-
-Author
-
-Project created as a UI/UX design practice and portfolio project.
+* Figma
